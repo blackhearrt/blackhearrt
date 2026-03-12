@@ -31,8 +31,8 @@ Pandas
 NumPy  
 SQL  
 Matplotlib  
-Seaborn
-Aiogram
+Seaborn   
+Aiogram   
 Git  
 
 Currently learning:
