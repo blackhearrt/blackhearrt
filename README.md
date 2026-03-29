@@ -1,116 +1,110 @@
 # Hi, I'm Serhii 👋
 
-Python developer transitioning into **Data Analytics**.
+Technical specialist transitioning into IT through practical projects, continuous learning, and hands-on problem solving.
 
-Background in **biotechnology and analytical processes**, now focusing on using Python and data tools to explore datasets, automate workflows and build analytical systems.
-
----
-
-## 🔬 Background
-
-Before moving into IT, I worked in **biotechnological production**, dealing with analytical processes, data interpretation and laboratory workflows.
-
-This experience naturally pushed me toward **data analysis and automation using Python**.
+I enjoy technology, programming, automation, and building useful things step by step.  
+Currently focused on growing into remote junior IT roles and expanding my portfolio.
 
 ---
 
-## 🧠 Current Focus
+## 🚀 What I’m working on
 
-• Data analysis with Python  
-• Fraud transaction analysis  
-• Automation of real-world workflows  
-• SQL and analytical databases  
-• Machine learning fundamentals  
+- Python development
+- SQL and databases
+- basic web development (HTML / CSS / JavaScript)
+- automation and scripting
+- data analysis
+- technical problem-solving through pet projects
 
 ---
 
 ## 🛠 Tech Stack
 
-Python  
-Pandas  
-NumPy  
-SQL  
-Matplotlib  
-Seaborn   
-Aiogram   
-Git  
-
-Currently learning:
-
-Scikit-learn  
-Data Science workflows  
-Feature engineering
+- Python
+- SQL / SQLite
+- HTML / CSS
+- JavaScript basics
+- Git / GitHub
+- Jupyter Notebook
+- pandas / numpy / matplotlib / seaborn
+- aiogram
 
 ---
 
-## 📊 Selected Projects
+## 📂 Projects on this profile
 
-### Fraud Transaction EDA
-Exploratory analysis of financial transactions dataset to identify patterns and potential fraud indicators.
+Here you can find my practical and learning projects, including:
 
-Focus:
-- data cleaning
-- feature exploration
-- anomaly patterns
-- visualization
-
----
-
-### Biotech Data Automation *(in progress)*
-
-Automation of real laboratory data tables using Python.
-
-Goal:
-replace manual spreadsheet analysis with reproducible Python workflows.
+- Telegram bots
+- landing pages
+- Python utilities
+- SQL / database practice
+- data analysis notebooks
+- automation-related pet projects
 
 ---
 
-### Crypto OSINT Bot *(in development)*
+## 🔬 Background
 
-Telegram bot that collects and processes crypto-market signals and analytics from multiple sources.
+Before moving into IT, I worked in a technical and analytical environment in biotechnological production.
 
-Planned features:
-- data aggregation
-- signal filtering
-- automated alerts
+That experience helped me develop:
 
----
+- structured thinking
+- attention to detail
+- responsibility
+- process-oriented problem solving
+- analytical mindset
 
-### Time Tracker Bot
-
-Telegram bot for tracking work sessions and logging time data.
-
-Includes:
-- database storage
-- session tracking
-- statistics generation
+Now I’m applying these strengths to programming, software-related work, and technical projects.
 
 ---
 
-### CLI Assistant (team project)
+## 🎓 Education & Learning
 
-Command line assistant built as part of Python engineering coursework.
-
----
-
-## 📚 Education
-
-Python Software Engineering — GoIT  
-
+- Technical degree in **Biotechnology and Bioengineering**
+- **Python Software Engineering** course (GoIT)
+- Continuous self-learning through:
+  - practice
+  - pet projects
+  - technical tasks
+  - experimentation with tools and workflows
 
 ---
 
 ## 🎯 Career Goal
 
-Transition into **Data Analytics / Python Data roles** and work with real datasets, analytical pipelines and automation.
+My goal is to fully transition into IT and grow through real practice, useful projects, and continuous improvement.
+
+I’m especially interested in remote technical work where I can:
+
+- build
+- automate
+- improve
+- analyze
+- learn fast
+- contribute step by step
+
+---
+
+## 🤝 Open to
+
+- junior / trainee IT roles
+- remote opportunities
+- collaboration
+- practical experience
+- constructive feedback
 
 ---
 
 ## 📫 Contact
 
-Email: svmamonov36@gmail.com
+- GitHub: [blackhearrt](https://github.com/blackhearrt)
+- Email: `svmamonov36@gmail.com`
 
+---
 
+Thanks for visiting my profile!
 
 <!--
 **blackhearrt/blackhearrt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
